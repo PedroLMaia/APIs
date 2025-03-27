@@ -26,6 +26,3 @@ flowchart TB
     end
 
 ```
-
-
-
